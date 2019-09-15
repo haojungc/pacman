@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>src/img/ghost_cyan.gif</file>
+        <file>src/img/ghost_frightened.gif</file>
+        <file>src/img/ghost_orange.gif</file>
+        <file>src/img/ghost_pink.gif</file>
+        <file>src/img/ghost_red.gif</file>
+        <file>src/img/ghost_revive.gif</file>
+        <file>src/img/ghost_scared.jpeg</file>
+        <file>src/img/kisspng-pac-man-circle-geometric-shape-cascading-style-she-pacman-in-png-5ab1435f335ba6.4549593415215665592104.png</file>
+        <file>src/img/kisspng-pac-man-party-worlds-biggest-pac-man-ghosts-pac-man-ghost-png-clipart-5a7561ddb18662.9709180915176422057272.png</file>
+        <file>src/img/kisspng-pac-man-world-3-ms-pac-man-maze-madness-pac-man-p-not-bad-5b44b39fd84121.4869314515312290878858.png</file>
+        <file>src/img/kisspng-pac-man-world-3-ms-pac-man-pac-man-games-pac-man-transparent-png-5a797bceef3227.5142749115179109909798.png</file>
+        <file>src/img/kisspng-pac-man-world-3-ms-pac-man-pong-agar-io-pacman-blue-png-5ab1436936a8a0.1310607215215665692239.png</file>
+        <file>src/img/map.png</file>
+        <file>src/img/map_marked.png</file>
+        <file>src/img/map_mark node and corner.png</file>
+        <file>src/img/map_position.png</file>
+        <file>src/img/pacman_dead.gif</file>
+        <file>src/img/pacman_down.gif</file>
+        <file>src/img/pacman_left.gif</file>
+        <file>src/img/pacman_right.gif</file>
+        <file>src/img/pacman_up.gif</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file>src/data/pelletMap.txt</file>
+        <file>src/data/path.txt</file>
+        <file>src/data/dotMap.txt</file>
+    </qresource>
+</RCC>
